@@ -1,6 +1,8 @@
 # नमस्ते! Namaste! 👋
 
-I’m **Akshay**, a researcher based in **Germany** working at the intersection of **geophysics**, **geology**, and **ML for scientific computing**. 🌌🎸 I have a deep interest in **geophysical data integration** and application of various geophysical methods to different problems in geophysics and other overlapping areas. I like working on problems of all scales from mineral exploration to plate tectonics, and using geophysics combined with geology to improve our understanding of our planet. Feel free to reach out!
+I’m **Akshay**, a researcher based in **Germany** using Deep Learning to bridge the gap between **geophysics** and **geology**!
+I have a deep interest in **geophysical data integration** and application of various geophysical methods to different problems in geophysics and other overlapping areas.
+I like working on problems of all scales from mineral exploration to plate tectonics, and using geophysics combined with geology to improve our understanding of our planet. Feel free to reach out!
 
 ---
 
